@@ -1,5 +1,5 @@
 ## Hello there... 👋
-##I'm NIK
+## I'm NIK
 - 🌱 I’m currently learning everything...
 - 📫 How to reach me: U can't ('cause I won't let you...)
 - ⚡ Fun fact: I USE MY OWN OS CALLED osNIK!
