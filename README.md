@@ -1,15 +1,8 @@
-### Hi there 👋
-
-<!--
-**isnik09/isnik09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- 
-# Hello there! I'm NIK
+### Hello there... 👋
+#I'm NIK
 - 🌱 I’m currently learning everything...
 - 📫 How to reach me: U can't ('cause I won't let you...)
 - ⚡ Fun fact: I USE MY OWN OS CALLED osNIK!
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/is.nik_) 
 
@@ -33,3 +26,14 @@
 [![](https://visitcount.itsvg.in/api?id=isnik09&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--
+**isnik09/isnik09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ 
+# Hello there! I'm NIK
+- 🌱 I’m currently learning everything...
+- 📫 How to reach me: U can't ('cause I won't let you...)
+- ⚡ Fun fact: I USE MY OWN OS CALLED osNIK!
+
+
