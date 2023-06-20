@@ -1,7 +1,7 @@
 ## Hello there... I'm NIK
 - 🌱 I’m currently learning everything...
 - 📫 How to reach me: U can't ('cause I won't let you...)
-- ⚡ Fun fact: I USE MY OWN OS CALLED osNIK! and I love LINUX macOS and Windows Suck
+- ⚡ Fun fact: I USE MY OWN OS CALLED osNIK! and I love LINUX and macOS, Windows Suck
 
 <!-- ![snake gif](https://github.com/isnik09/NIK2221994/blob/output/github-contribution-grid-snake.svg) -->
 ![snake gif](https://github.com/isnik09/NIK2221994/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
