@@ -1,7 +1,7 @@
 ## Hello there... I'm NIK
 - 🌱 I’m currently learning everything...
 - 📫 How to reach me: U can't ('cause I won't let you...)
-- ⚡ Fun fact: I USE MY OWN OS CALLED osNIK! and I love LINUX and macOS, Windows Suck
+- ⚡ Fun fact: I USE MY OWN OS CALLED osNIK! and I love LINUX and macOS, Windows Suck and no longer needed as both mac and Linux can run games now... 
 
 <!-- ![snake gif](https://github.com/isnik09/NIK2221994/blob/output/github-contribution-grid-snake.svg) -->
 ![snake gif](https://github.com/isnik09/NIK2221994/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
@@ -55,9 +55,5 @@
 
 
 ![](https://github-profile-trophy.vercel.app/?username=isnik09&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
-
-<!--
-**isnik09/isnik09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
  
 
