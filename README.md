@@ -54,6 +54,7 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white)
 
 
-![](https://github-profile-trophy.vercel.app/?username=isnik09&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
- 
+![](https://github-profile-trophy.vercel.app/?username=isnik09&theme=matrix&no-frame=false&no-bg=false&margin-w=4) 
 
+
+https://github-readme-activity-graph.vercel.app/graph?username=isnik09&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true
