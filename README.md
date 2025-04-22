@@ -4,7 +4,7 @@
 - Loves Linux and macOS, Windows Suck and no longer needed as both mac and Linux can run games now...
 - Can stare at cube for hours if it looks aesthetic...
 
-![](https://github.com/isnik09/NIK2221994/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![](https://github.com/isnik09/NIK2221994/blob/output/github-contribution-grid-snake-dark.svg?palette=react-dark)
 
 [![](https://visitcount.itsvg.in/api?id=isnik09&icon=2&color=3)](https://visitcount.itsvg.in)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -14,6 +14,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=isnik09&icon=2&color=3)](https://visitcount.itsvg.in)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=isnik09&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true) 
+![](https://github-readme-activity-graph.vercel.app/graph?username=isnik09&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true) 
 
 ![](https://github-profile-trophy.vercel.app/?username=isnik09&theme=matrix&no-frame=false&no-bg=false&margin-w=4) 
